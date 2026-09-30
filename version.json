@@ -1,47 +1,47 @@
 {
  "app": "网课助手",
- "build": "20260930-1811",
- "at": "2026-09-30T18:12:30+08:00",
- "size": 1145933,
- "sha256": "a750ae337b9bf2464539805499afc355597ff6c8a173c3ae86986e0ef06c1896",
+ "build": "20260930-1820",
+ "at": "2026-09-30T18:21:01+08:00",
+ "size": 1154700,
+ "sha256": "63aba1b017d510f6aab1da5b9969deaedfbdc83940378eb921c92c0d2c47d5d0",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
  "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
- "sig": "TESEGwzrJDyk361G5HR4Rg50BbgVP7mkha0vACh5HA0oEfTOrtHKDHudv1f58Y6hzM5IvOVcNI6XdkRRsBhIhDEsKrI4rzkHl92+8hQIXxMA7J5XwuzgKoxKUWM2t5s+k7rAkMLSgpX/0Hs65IAMwMzuF7vlxqvAQ56OpSfBQQEywovVsYPJKhTRdKmO3Z+67blslsHEZbRwcABHM7mIVeRj3gOjNMhHDO0N/kxuk/OJ/jAp/0tKq4hn2XCTmyrP2esMEun1hJeQrTA8jCiTEt0DgjwYMMPRtDF+kMO2FGKsyeeZP4KA7k0cOYJH0dmFacVjKvZyM+SUIQyp1FPjMg==",
+ "sig": "J13PmSEGskX++9ybe3mMHrBv00CwcqGwt+dU13MEmZDPoVDUoAWge9VuUkDlaNGu5aa0jAF/wFYkOOeTTTnRefZxe6SlK0EkwqDZCG/k2hu0xg/VB0aog15C14vlFtYaraEjeVQEt/yEu0Uo0UiK1F6/Jc82gCfy2RTMe3THQ9b7Ii1guKM7RhFnr/CFHcIr0EoGaFI0jhV99+Q+jP6X11/jVsU97uy2UC8TSuH8vYG2CrFieodz6r1iGNQHVO3s6xLvWV+W+OWF1mvc8nQJTTbpO7BzkrM4eLQuw7gris0sJmLnhwVpH+Yr7KYBzPPaxIUdjcvEHVj/BQ1ofhBS4Q==",
  "channel": "online-preview",
  "channels": [
   {
    "channel": "host-pkg",
-   "build": "20260930-1811",
+   "build": "20260930-1820",
    "url": "./ch/host-pkg/pkg.zip",
-   "sha256": "e82bd38497a46f8739eb866380650f995d40a436a557d7bdb6e8037ad9a2f4fe",
-   "size": 344215,
+   "sha256": "43e0ea27ed704afef9b14c5f5fde00245bac2902f865f7cde3bd43d48640a90a",
+   "size": 347174,
    "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
-   "sig": "oT08LXXjCpnpo/owBGnbSx4KN5Y4Vvz6zefTWkassGkHb87QHziziujSF+qu6UXb3wUjX7HvGcdXV4SRF0p9NlCoK6Bv0Jh76xi7g4oixKvaF4OxdZxM7b3XW2eRW16faReUejImIU+P8Tii8BgwMCazTK9PZg9Y0X/03P8r8reLCVQaVMrUY/SMQXS7TU0q9wOfTfp8l2YrElC9YrDTnTzY4z8lQIOfSr8ahNZe/MH/Y+plzpbcCZRQDWAth45Ic4b6fAz7QXMuQnvnbsknnVyJ73Vz1vJv+c/9on+fOxG5MBTxhAdX9FojIu/8q5APdO9ud7g6G5TJvqzI79inVw==",
+   "sig": "1AwEoN93VLxRlt2/tsd4sBl2adtyqXuI66mlEPAARCM5mOEfKsZqn4SzmRJtyOea+1sEVRC8+tTPd5OXLi/Rz9h6Vjzqz79k1d2NW7gwp8hmeurCtoTeZz24wWcQ9lkj9DIOT+Rs8Leslve+Vss8slJkfMLzz5x8tPYmk0nMQIUzmX8yxTAkZWyFJMs5Nq8rPoqs9zNfNE3tX0p3SZJiEqcSSOfr66YcuHzxckbpyaFiH1xg/dgiayqYSAmqJ2f9n+/rDivD13jMQzgAhXbUbOKIfpjTQ/Rst5H4fgSTeht2kaH5sSP16ZWAsuHd4INQ8xdqPd0NEb+sQsNbuhXKeQ==",
    "files": {
-    "网课助手.html": "b8e7f79bfd8713cbc24258918db63ffb4db42bd2acba02c49e3a8b64ebd69619",
-    "lic-config.js": "28b40c39e21269e7909400548814b7d2e0cbe6cfb548743f874766d783f96aaa",
+    "网课助手.html": "36dcf2e10d7acca07309b17d0e612fbb3962a7f0c875da99c91c3cbbcaf47fc7",
+    "lic-config.js": "eb84ef9e0cdace8bf7215f527e4ae916ad48890f60dbefa60a175da61dab74eb",
     "license.js": "6a92373db5b835b5b67ed12ccb7fb2c7d61569ad7751d8c8b1d2604786991767",
     "lic-guard.js": "d2bc3d49c8df39c355d7cb89df21a832381ecc691a8e8001d80909061d8feca4"
    }
   },
   {
    "channel": "single-file",
-   "build": "20260930-1811",
+   "build": "20260930-1820",
    "url": "./ch/single-file/app.html",
-   "sha256": "169dfcb9660ae1d494dd404bb63acc82b04b6410918ad94f2fe0d4c4fdb0c6d7",
-   "size": 1145930,
+   "sha256": "295467651ac3932acb66367b14ad5237d68716ccbf5d63e86a043610effc32c3",
+   "size": 1154697,
    "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
-   "sig": "R0d7al+kExAhlHAQd9WCchOCqCaIetiK6C9EArqU6hvrub/hQKbpzgBSpt2lq+VdCChXW6PQ43Gh/gzWYbnnDICrzSuMIT+kxOOTlbH86ZncLkkXi2Jgo0S83SBbAQR578NnGkvlihExEUNXjwJ/HcTD7uY1TKFOvDjSbayVZhDP0RriVgC88OLnfDIp6SQo/BTn3nKUKJSel9SxDFR0XyQz999VbmtqTmHMV6hzY6TBO2PjYwgnyNZxBR+ivWaPZcUVX3xfUVmsHf4uP6ZwDqGQ25re8uiwsDBGTVTo7Rq/Yw0zs9bom2sLP9nYkCux4OvadfMnMO3phwQF98YE0Q=="
+   "sig": "DrIfCfd3mz7yhiWsTQ9scgqmjyW0G/g80lQASralTHFwvNvNBdhBni4uLAPpIbyolfz0pQ1NTGKDsDUCpi1ezR1EiFKprC6JKzS1aM7YU0/DpJOIJ55kJMtTkZvDG910d88Bjte1azPco4okdJVLNcWcByKJ54/GIW1k8iHWVsaYDEQk7VTUJ/bLoooxg69ax9rg6im6MRPlUHJazj+jUro0tI1KCxVNOaj9ZqmI1oucipeGaWpsms27k0mGFGKWn/buicl2wNA/dyjTyjIqwMgmIZCbIB4/fE9UTxxgQOckITCV4Uy8t+BLTRpmojscUui0pEz/kBog4WT1yiFniw=="
   },
   {
    "channel": "online-preview",
-   "build": "20260930-1811",
+   "build": "20260930-1820",
    "url": "./index.html",
-   "sha256": "a750ae337b9bf2464539805499afc355597ff6c8a173c3ae86986e0ef06c1896",
-   "size": 1145933,
+   "sha256": "63aba1b017d510f6aab1da5b9969deaedfbdc83940378eb921c92c0d2c47d5d0",
+   "size": 1154700,
    "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
-   "sig": "TESEGwzrJDyk361G5HR4Rg50BbgVP7mkha0vACh5HA0oEfTOrtHKDHudv1f58Y6hzM5IvOVcNI6XdkRRsBhIhDEsKrI4rzkHl92+8hQIXxMA7J5XwuzgKoxKUWM2t5s+k7rAkMLSgpX/0Hs65IAMwMzuF7vlxqvAQ56OpSfBQQEywovVsYPJKhTRdKmO3Z+67blslsHEZbRwcABHM7mIVeRj3gOjNMhHDO0N/kxuk/OJ/jAp/0tKq4hn2XCTmyrP2esMEun1hJeQrTA8jCiTEt0DgjwYMMPRtDF+kMO2FGKsyeeZP4KA7k0cOYJH0dmFacVjKvZyM+SUIQyp1FPjMg=="
+   "sig": "J13PmSEGskX++9ybe3mMHrBv00CwcqGwt+dU13MEmZDPoVDUoAWge9VuUkDlaNGu5aa0jAF/wFYkOOeTTTnRefZxe6SlK0EkwqDZCG/k2hu0xg/VB0aog15C14vlFtYaraEjeVQEt/yEu0Uo0UiK1F6/Jc82gCfy2RTMe3THQ9b7Ii1guKM7RhFnr/CFHcIr0EoGaFI0jhV99+Q+jP6X11/jVsU97uy2UC8TSuH8vYG2CrFieodz6r1iGNQHVO3s6xLvWV+W+OWF1mvc8nQJTTbpO7BzkrM4eLQuw7gris0sJmLnhwVpH+Yr7KYBzPPaxIUdjcvEHVj/BQ1ofhBS4Q=="
   }
  ]
 }
