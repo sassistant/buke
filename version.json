@@ -1,0 +1,47 @@
+{
+ "app": "网课助手",
+ "build": "20260930-1811",
+ "at": "2026-09-30T18:12:30+08:00",
+ "size": 1145933,
+ "sha256": "a750ae337b9bf2464539805499afc355597ff6c8a173c3ae86986e0ef06c1896",
+ "url": "./index.html",
+ "alg": "RSA-PSS-SHA256",
+ "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
+ "sig": "TESEGwzrJDyk361G5HR4Rg50BbgVP7mkha0vACh5HA0oEfTOrtHKDHudv1f58Y6hzM5IvOVcNI6XdkRRsBhIhDEsKrI4rzkHl92+8hQIXxMA7J5XwuzgKoxKUWM2t5s+k7rAkMLSgpX/0Hs65IAMwMzuF7vlxqvAQ56OpSfBQQEywovVsYPJKhTRdKmO3Z+67blslsHEZbRwcABHM7mIVeRj3gOjNMhHDO0N/kxuk/OJ/jAp/0tKq4hn2XCTmyrP2esMEun1hJeQrTA8jCiTEt0DgjwYMMPRtDF+kMO2FGKsyeeZP4KA7k0cOYJH0dmFacVjKvZyM+SUIQyp1FPjMg==",
+ "channel": "online-preview",
+ "channels": [
+  {
+   "channel": "host-pkg",
+   "build": "20260930-1811",
+   "url": "./ch/host-pkg/pkg.zip",
+   "sha256": "e82bd38497a46f8739eb866380650f995d40a436a557d7bdb6e8037ad9a2f4fe",
+   "size": 344215,
+   "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
+   "sig": "oT08LXXjCpnpo/owBGnbSx4KN5Y4Vvz6zefTWkassGkHb87QHziziujSF+qu6UXb3wUjX7HvGcdXV4SRF0p9NlCoK6Bv0Jh76xi7g4oixKvaF4OxdZxM7b3XW2eRW16faReUejImIU+P8Tii8BgwMCazTK9PZg9Y0X/03P8r8reLCVQaVMrUY/SMQXS7TU0q9wOfTfp8l2YrElC9YrDTnTzY4z8lQIOfSr8ahNZe/MH/Y+plzpbcCZRQDWAth45Ic4b6fAz7QXMuQnvnbsknnVyJ73Vz1vJv+c/9on+fOxG5MBTxhAdX9FojIu/8q5APdO9ud7g6G5TJvqzI79inVw==",
+   "files": {
+    "网课助手.html": "b8e7f79bfd8713cbc24258918db63ffb4db42bd2acba02c49e3a8b64ebd69619",
+    "lic-config.js": "28b40c39e21269e7909400548814b7d2e0cbe6cfb548743f874766d783f96aaa",
+    "license.js": "6a92373db5b835b5b67ed12ccb7fb2c7d61569ad7751d8c8b1d2604786991767",
+    "lic-guard.js": "d2bc3d49c8df39c355d7cb89df21a832381ecc691a8e8001d80909061d8feca4"
+   }
+  },
+  {
+   "channel": "single-file",
+   "build": "20260930-1811",
+   "url": "./ch/single-file/app.html",
+   "sha256": "169dfcb9660ae1d494dd404bb63acc82b04b6410918ad94f2fe0d4c4fdb0c6d7",
+   "size": 1145930,
+   "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
+   "sig": "R0d7al+kExAhlHAQd9WCchOCqCaIetiK6C9EArqU6hvrub/hQKbpzgBSpt2lq+VdCChXW6PQ43Gh/gzWYbnnDICrzSuMIT+kxOOTlbH86ZncLkkXi2Jgo0S83SBbAQR578NnGkvlihExEUNXjwJ/HcTD7uY1TKFOvDjSbayVZhDP0RriVgC88OLnfDIp6SQo/BTn3nKUKJSel9SxDFR0XyQz999VbmtqTmHMV6hzY6TBO2PjYwgnyNZxBR+ivWaPZcUVX3xfUVmsHf4uP6ZwDqGQ25re8uiwsDBGTVTo7Rq/Yw0zs9bom2sLP9nYkCux4OvadfMnMO3phwQF98YE0Q=="
+  },
+  {
+   "channel": "online-preview",
+   "build": "20260930-1811",
+   "url": "./index.html",
+   "sha256": "a750ae337b9bf2464539805499afc355597ff6c8a173c3ae86986e0ef06c1896",
+   "size": 1145933,
+   "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
+   "sig": "TESEGwzrJDyk361G5HR4Rg50BbgVP7mkha0vACh5HA0oEfTOrtHKDHudv1f58Y6hzM5IvOVcNI6XdkRRsBhIhDEsKrI4rzkHl92+8hQIXxMA7J5XwuzgKoxKUWM2t5s+k7rAkMLSgpX/0Hs65IAMwMzuF7vlxqvAQ56OpSfBQQEywovVsYPJKhTRdKmO3Z+67blslsHEZbRwcABHM7mIVeRj3gOjNMhHDO0N/kxuk/OJ/jAp/0tKq4hn2XCTmyrP2esMEun1hJeQrTA8jCiTEt0DgjwYMMPRtDF+kMO2FGKsyeeZP4KA7k0cOYJH0dmFacVjKvZyM+SUIQyp1FPjMg=="
+  }
+ ]
+}

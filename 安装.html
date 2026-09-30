@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>网课助手 · 安装到桌面</title>
+<style>
+  :root{--navy:#1f4e79;--line:#dfe5ec;--ink:#20303f;--muted:#5f6f7f}
+  *{box-sizing:border-box}
+  body{margin:0;background:#f4f6f9;color:var(--ink);font:16px/1.7 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif}
+  .wrap{max-width:680px;margin:0 auto;padding:22px 18px 60px}
+  h1{font-size:22px;margin:6px 0 4px}
+  .sub{color:var(--muted);font-size:14px;margin-bottom:18px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin-bottom:14px}
+  .card h2{font-size:16px;margin:0 0 8px}
+  .card.now{border-color:var(--navy);box-shadow:inset 3px 0 0 var(--navy)}
+  .tag{display:inline-block;font-size:12px;color:#fff;background:var(--navy);border-radius:999px;padding:1px 9px;margin-left:6px;vertical-align:2px}
+  ol{margin:8px 0 0;padding-left:22px}
+  ol li{margin:5px 0}
+  b{color:var(--navy)}
+  .open{display:block;text-align:center;background:var(--navy);color:#fff;text-decoration:none;border-radius:10px;
+        padding:15px;font-size:17px;font-weight:600;margin:6px 0 18px}
+  .open2{display:block;text-align:center;background:#fff;color:var(--navy);border:1px solid var(--navy);
+         text-decoration:none;border-radius:10px;padding:13px;font-size:15px;margin-bottom:18px}
+  .hint{font-size:13.5px;color:var(--muted)}
+  .hide{display:none}
+  code{background:#eef2f7;padding:1px 6px;border-radius:4px;font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>网课助手 · 装到手机上</h1>
+  <div class="sub">不用装安装包：用浏览器打开一次，然后「添加到桌面」，以后一点就开，还能自动更新。</div>
+  <a class="open" href="./index.html">直接打开网课助手</a>
+
+  <div class="card" id="c-huawei">
+    <h2>华为 / 荣耀（鸿蒙 HarmonyOS）<span class="tag">推荐这样</span></h2>
+    <ol>
+      <li>用 <b>华为浏览器</b> 打开本页（微信里打开的话，点右上角「…」→ 用浏览器打开）</li>
+      <li>点下方「直接打开网课助手」，确认能正常用、能输密钥</li>
+      <li>浏览器底部/右上角菜单 →<b>「添加到桌面」</b>（有的版本叫「添加书签」→ 桌面书签）</li>
+      <li>以后从桌面图标一点就开，跟 App 一样；我更新后，你下次打开就是新版</li>
+    </ol>
+    <div class="hint">鸿蒙 5 / 纯血鸿蒙（NEXT）不能用安卓 apk，用这个方法就行，功能一样是全的。</div>
+  </div>
+
+  <div class="card" id="c-android">
+    <h2>安卓手机 / 平板</h2>
+    <ol>
+      <li>用 <b>Chrome</b> 或 <b>Edge</b> 打开本页 → 点「直接打开网课助手」</li>
+      <li>浏览器右上角 <b>⋮</b> →<b>「添加到主屏幕」</b></li>
+      <li>桌面会出现「网课助手」图标，以后点图标打开</li>
+    </ol>
+    <div class="hint">也可以装 <code>网课助手.apk</code>（发行方发的安卓包），两者数据不互通，选一种长期用就好。</div>
+  </div>
+
+  <div class="card" id="c-ios">
+    <h2>iPhone / iPad</h2>
+    <ol>
+      <li>必须用 <b>Safari</b> 打开本页（微信里打开先点「用Safari打开」）</li>
+      <li>点下方「直接打开网课助手」，确认能用</li>
+      <li>底部 <b>分享按钮</b>（方框向上箭头）→<b>「添加到主屏幕」</b>→ 添加</li>
+    </ol>
+  </div>
+
+  <div class="card" id="c-pc">
+    <h2>电脑（Windows / Mac）</h2>
+    <ol>
+      <li>直接在浏览器打开本页就能用全部功能（含本地 OCR 的除外）</li>
+      <li>想要最强功能，用发行方发的<b>桌面版</b>（自带本地 OCR 服务）</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>第一次用要做什么</h2>
+    <ol>
+      <li>打开后弹出授权窗口，输入发行方给你的密钥（形如 <code>XXXX-XXXX-XXXX</code>）</li>
+      <li>填名字 → 确认，左上角会显示到期天数</li>
+      <li>数据存在这台设备的浏览器里；换设备/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬</li>
+    </ol>
+  </div>
+</div>
+<script>
+(function () {
+  var ua = navigator.userAgent || '';
+  var isHuawei = /HarmonyOS|HuaweiBrowser|HMSCore|HUAWEI|honor/i.test(ua);
+  var isIOS = /iPad|iPhone|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+  var isAndroid = /Android/i.test(ua);
+  var id = isHuawei ? 'c-huawei' : isIOS ? 'c-ios' : isAndroid ? 'c-android' : 'c-pc';
+  var el = document.getElementById(id);
+  if (el) { el.className = 'card now'; var t = el.querySelector('.tag'); if (!t) { var s = document.createElement('span'); s.className = 'tag'; s.textContent = '你的设备'; el.querySelector('h2').appendChild(s); } }
+})();
+</script>
+</body>
+</html>
