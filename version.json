@@ -1,23 +1,23 @@
 {
  "app": "网课助手",
  "build": "20260930-1851",
- "at": "2026-09-30T18:56:19+08:00",
+ "at": "2026-09-30T18:59:56+08:00",
  "size": 1216630,
  "sha256": "093ee18b99cc7234ec6cc0a1bee32e9a295b0300bbf2ca05f3553cb47c521d20",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
- "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
- "sig": "wq9xUWoJCO8oahFe340hcF7yQoQwnTg+EoA1w91LrgGZiaM8qL6pzMnGlB372e7Yq+CwY3HFVTReGtNovYaPUlVvBdNh2SzLGYgKCiIUuhr1l3Ufiszcbf/2ezfGo3zkQyZPhEhbbrG+1rPzY+zG/aaPn/9PTQOyLwyMKWUjzYo7LhF41zAJ59BEYx7aVqJ+OC/qI3E5NiNFKBHi4ocy/BIpRKm1VA7B4ZLQ3JFvA1v7mNdLHh85JR55KLTK6bRlaZIObj4w+SeFnNgjQK5VS2nhxnDd6NHNvm+6JzK0HO+pAl+cUdgKTSX4gZUsz00CNF5KkFIckaCw9nIOM+EWiw==",
+ "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
+ "sig": "smnjAW8nJVAIaS/zg7k0dsTQZcDKA+Ljcx2Xc5fUbnXdU4AIE51Ts4N8UgLd1m+jtUduMUNve/XhHFHMkBcNeV13dzZEBWHF7W52VzsGjzaop+NXWPDsPzOAkAWDS7vvO26gGAyuDwtDTaiYEeBZvmERfZknr4Jnv9pQ3GKzIEH7ZoZne8RJxlzZNyjwx0YohLUmikNEC6M3471wQ75/P+dOcl69Rl8gEBaBmYQVYLETRx6AgkqqmR+U7toSebwKltFltaKFd59s2OviVFwonKpmV4O20QR5KM44T+/kac/rRV/evUPm+MMyE5TpbS06R0KATDwybRYOfAe+fPmDwg==",
  "channel": "online-preview",
  "channels": [
   {
    "channel": "host-pkg",
    "build": "20260930-1851",
    "url": "./ch/host-pkg/pkg.zip",
-   "sha256": "387a30f7b15f837733162a6f487cb0c1bff0fc053eefcd7074b1d07759fea973",
-   "size": 364066,
-   "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
-   "sig": "X7yIhuC0K6BL+cKPB8Lt1xdlNg6E53Gy5a+a5nN1xavsyMRWTYVfu6jt3C/Xey48wGpcfjwZWp/u4iwJEtLFJrXwqp5VM76qrkudKRbKxVgiFESK14HA8ipTf14/LjTKRW09qN5hLcs9FRIJiX6x0ZPIPiFQdPSgfxr/sI0fDBwbbL2B00xWPPLYZ3UNLWzY4EUUt1D+kY8XGU93gL7LVCv1ablpg+KrcOczfklrzQs1uabacFn9UxkwPJm39EwA0mcOxPN/7Yy7M35xUZ65RykYbBNNQ3zk1oubyBFtcGIpKp9zPOly5kvhfyFqMJ5HpuyPQlI2xTqa1nLDGFkBng==",
+   "sha256": "ba61642d21baeeae3dd8159489a0245c6ad2003dbe15024be94e0ab33a879228",
+   "size": 367406,
+   "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
+   "sig": "eD3BuxAJOYQAQdHlZZj8HITCg5Z09r9bJUamqga1vGPfh9ERJL+P04AZeeZ5ssMkkfDiMLWqGDeKNNUnJaozDCeV8deFnfVC3qgLzeZmimxZvO6wwKlPG8D2MfUIezqgCERBqMfsCXwKh9g1GcoguRNxkn+7Vq4nvgTybqh/Hs74iccnSn/HxhFGJbXGLa+AEBsI20FrPf+HElT+YN/BSZS6YmEHXZ45SKRBN3xyM82Az10sDZUbZxbeo+BygZLiNrBo9JQ0V22kxy0fBRZisYzE5jgl+1ZkWNq2/37KMwFKsFTcIV35aGPbMhodPU0v3TmCAD6KtpndO8bvqp7aIw==",
    "files": {
     "网课助手.html": "f5a39f4b35cd61d513ca2ee5032b01b4b260a99ff975f5318972ffa74e116d9e",
     "lic-config.js": "b99dc47b0d62aee302c83442458dd2c5886715e5485c1619a5f728c9b5a2bff1",
@@ -31,8 +31,8 @@
    "url": "./ch/single-file/app.html",
    "sha256": "dfe98031e354ace02f705b18f07e504a63f9da56ad34c5ce8e2ab31614dbe557",
    "size": 1216627,
-   "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
-   "sig": "en4JN4zQ5oTJ8sVb2sgvejvajiSusPcq41gUcV+ltrUHfOjHUD+vfmQZwPdnohE3UeUwGXFqSd7J5wX9mMldg7iZtBBAqMY9zi/ZD8NyRc2xMvz6dJIpS6yTLKTgqVBRO/I0gtfWtJaBw6XZq0Bvp4C20LA6726PPgTquVxvRbGN1Lnp9Qgk/yYfMHP5Y06Dx4CMgmT9rALCkkJqxjfLocJ2ZQEeJ9UiBxPdcTAWNHPKId/BbcJbLj8Cu+/1hF1SDikj4FcPbVnUTXjQ89gXO/1bAJQQZ7nbgOyHk3UukeOgTRMTQ6VyMlJdvVYF30rTM9HVS1TDFoyCeWL0JMmJtw=="
+   "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
+   "sig": "BbClu2MCVe0DpHIMqJ4pGuw/atU/Z5Evd+6JELoARTUX2yQhCFZThzBWjLBV7weSL7M/7+FJAZv2mid/Lt0FA9WAgwGOH7ncqYU35MNt3DPFjiD7bm3hrpIUF+TpPm+jks2eS51YTgElV5yeIAK+da7IZtlc0bkn/oZoXd5FSTC/IXzIJ5ihEz8piJb/zpg9L650ocBgFqZzCAr6KmxIwfrak658LiVOeDNEpv91MAVOufrqdeNPKXlu1fG8NGjJ9ubjiz8f76So+qMyKqAXLCzb6pyb9v9vQjdosYxcsOyhauT/KmPMsmRWkEajGsrNNHiRVECDvW1Tdx8uWTGZiA=="
   },
   {
    "channel": "online-preview",
@@ -40,8 +40,8 @@
    "url": "./index.html",
    "sha256": "093ee18b99cc7234ec6cc0a1bee32e9a295b0300bbf2ca05f3553cb47c521d20",
    "size": 1216630,
-   "notes": "网课助手 · 在线版上线：\n· 打开网址即用，不用安装；手机/平板浏览器里「添加到桌面」，以后一点就开。\n· 每次打开会自动检查有没有新版本，有的话问你要不要更新——更新只是重新载入页面，学生、课次、题库数据都不会动。\n· 更新完成后会弹出本次的更新说明，就是你现在看到的这段文字。\n· 数据存在你自己的设备上；换手机/换浏览器用「数据与设置 → ⬇ 备份 / ⬆ 导入」搬过去。",
-   "sig": "wq9xUWoJCO8oahFe340hcF7yQoQwnTg+EoA1w91LrgGZiaM8qL6pzMnGlB372e7Yq+CwY3HFVTReGtNovYaPUlVvBdNh2SzLGYgKCiIUuhr1l3Ufiszcbf/2ezfGo3zkQyZPhEhbbrG+1rPzY+zG/aaPn/9PTQOyLwyMKWUjzYo7LhF41zAJ59BEYx7aVqJ+OC/qI3E5NiNFKBHi4ocy/BIpRKm1VA7B4ZLQ3JFvA1v7mNdLHh85JR55KLTK6bRlaZIObj4w+SeFnNgjQK5VS2nhxnDd6NHNvm+6JzK0HO+pAl+cUdgKTSX4gZUsz00CNF5KkFIckaCw9nIOM+EWiw=="
+   "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
+   "sig": "smnjAW8nJVAIaS/zg7k0dsTQZcDKA+Ljcx2Xc5fUbnXdU4AIE51Ts4N8UgLd1m+jtUduMUNve/XhHFHMkBcNeV13dzZEBWHF7W52VzsGjzaop+NXWPDsPzOAkAWDS7vvO26gGAyuDwtDTaiYEeBZvmERfZknr4Jnv9pQ3GKzIEH7ZoZne8RJxlzZNyjwx0YohLUmikNEC6M3471wQ75/P+dOcl69Rl8gEBaBmYQVYLETRx6AgkqqmR+U7toSebwKltFltaKFd59s2OviVFwonKpmV4O20QR5KM44T+/kac/rRV/evUPm+MMyE5TpbS06R0KATDwybRYOfAe+fPmDwg=="
   }
  ]
 }
