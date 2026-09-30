@@ -1,13 +1,13 @@
 {
  "app": "网课助手",
  "build": "20260930-1851",
- "at": "2026-09-30T18:59:56+08:00",
+ "at": "2026-09-30T19:01:16+08:00",
  "size": 1216630,
  "sha256": "093ee18b99cc7234ec6cc0a1bee32e9a295b0300bbf2ca05f3553cb47c521d20",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
  "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
- "sig": "smnjAW8nJVAIaS/zg7k0dsTQZcDKA+Ljcx2Xc5fUbnXdU4AIE51Ts4N8UgLd1m+jtUduMUNve/XhHFHMkBcNeV13dzZEBWHF7W52VzsGjzaop+NXWPDsPzOAkAWDS7vvO26gGAyuDwtDTaiYEeBZvmERfZknr4Jnv9pQ3GKzIEH7ZoZne8RJxlzZNyjwx0YohLUmikNEC6M3471wQ75/P+dOcl69Rl8gEBaBmYQVYLETRx6AgkqqmR+U7toSebwKltFltaKFd59s2OviVFwonKpmV4O20QR5KM44T+/kac/rRV/evUPm+MMyE5TpbS06R0KATDwybRYOfAe+fPmDwg==",
+ "sig": "zWpnVjX2EppM/M2o+Zl1jPjfSTsaJqxjCV7pTuPTGAt4VmGkIhWNWcgxB3ue0+q5+5D5dHXaYKdELWkhbD4XAVmuxr2h2+9fBvbyKOHyltossgpJGwHDRor8YGH3MghYONvkAc4qcZNKEgSr1qP0rLbYrn44zKiQdYj7ZIPeh7B5fNSTs9VPTBVd0TzTOnx+aaxh+LqtL7sfIEwPkZfbqKa89XwLyNdAPmORWxJTelEXj2uFkhYbYbW9wz9cjF2+RvYdggoVM5kSk4JNjyluPDK2siWJ4y7ppWoVyKt70aSRaUuU/JPHpGlvVlg5lfLDhWoTnnOn7Jen5PCIPomVjQ==",
  "channel": "online-preview",
  "channels": [
   {
@@ -17,7 +17,7 @@
    "sha256": "ba61642d21baeeae3dd8159489a0245c6ad2003dbe15024be94e0ab33a879228",
    "size": 367406,
    "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
-   "sig": "eD3BuxAJOYQAQdHlZZj8HITCg5Z09r9bJUamqga1vGPfh9ERJL+P04AZeeZ5ssMkkfDiMLWqGDeKNNUnJaozDCeV8deFnfVC3qgLzeZmimxZvO6wwKlPG8D2MfUIezqgCERBqMfsCXwKh9g1GcoguRNxkn+7Vq4nvgTybqh/Hs74iccnSn/HxhFGJbXGLa+AEBsI20FrPf+HElT+YN/BSZS6YmEHXZ45SKRBN3xyM82Az10sDZUbZxbeo+BygZLiNrBo9JQ0V22kxy0fBRZisYzE5jgl+1ZkWNq2/37KMwFKsFTcIV35aGPbMhodPU0v3TmCAD6KtpndO8bvqp7aIw==",
+   "sig": "wb3TnGNnDlZ8MaKX1rSXpbbd4JZMeHmKCTsVMYvfGy8uugGptCAQdxr+BKbn1hWtpZFJ/DnhyuF05uC9HesXLkf417YRj/oIYjkAl70zfRiA1F3r8kANE4ja7TfVQ6nJg7fqsEWVU/tFk5zo6SvtTQPexY4oG6Fg32VxIJVdZecc4GsF9XRaH1O5Is8VuqdO5xCwKzc1v57EPxyuZnjhOBi901fBSeL1BbcbkLdvxgtctsyU2A3UfumJf9fFeeIB9jfy6i3cVTdXaO0+pFoEhYzYptezQd1ZBqMuPiI/A6GbCSPlBXrLJbzKHeOFX0Bvn6FgHH6DWdC8jdG2NPfBLA==",
    "files": {
     "网课助手.html": "f5a39f4b35cd61d513ca2ee5032b01b4b260a99ff975f5318972ffa74e116d9e",
     "lic-config.js": "b99dc47b0d62aee302c83442458dd2c5886715e5485c1619a5f728c9b5a2bff1",
@@ -32,7 +32,7 @@
    "sha256": "dfe98031e354ace02f705b18f07e504a63f9da56ad34c5ce8e2ab31614dbe557",
    "size": 1216627,
    "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
-   "sig": "BbClu2MCVe0DpHIMqJ4pGuw/atU/Z5Evd+6JELoARTUX2yQhCFZThzBWjLBV7weSL7M/7+FJAZv2mid/Lt0FA9WAgwGOH7ncqYU35MNt3DPFjiD7bm3hrpIUF+TpPm+jks2eS51YTgElV5yeIAK+da7IZtlc0bkn/oZoXd5FSTC/IXzIJ5ihEz8piJb/zpg9L650ocBgFqZzCAr6KmxIwfrak658LiVOeDNEpv91MAVOufrqdeNPKXlu1fG8NGjJ9ubjiz8f76So+qMyKqAXLCzb6pyb9v9vQjdosYxcsOyhauT/KmPMsmRWkEajGsrNNHiRVECDvW1Tdx8uWTGZiA=="
+   "sig": "BNw7FIVgFKvhk45slbgbkgn/VPfZHcW1QAMiaLFoTgiVpHybCbhRSDo1IVDKL4G1OTlF6JsxVFjlILisfBZ2ZoUfksRJg11XMP2g5iNosu/C1ted6W3Kh6o36ZQ70MYVkGvkA5NR0KBK9OThuYLPe8JA7dG0fd7g9I0vesDyWVh9Vb/1DnHYnO0wbuFd2hAFqeqvD8eFNF2q4mq7x6McElUNV+hMTJRJS7BTsxR5xhGsd2Yom0OS2YGwfcsauODfJpaeu+Jb6paHK+VEl8LRi3DJJzv6pS6xwFK4hhzQWvNWa1d7Rae8X0fklVWtUN3GO3oJB0SYRKskJQsu0+xv7Q=="
   },
   {
    "channel": "online-preview",
@@ -41,7 +41,7 @@
    "sha256": "093ee18b99cc7234ec6cc0a1bee32e9a295b0300bbf2ca05f3553cb47c521d20",
    "size": 1216630,
    "notes": "本次更新：\n· 打包网页版 / Mac 版 / 便携版都支持「进软件时提示新版本，问你要不要更新」\n· 本机开发版新增「发行方后台」（检测发布包、选通道、写更新说明、推送并验收）\n· 网址与授权清单换成中性地址（不再显示我的 GitHub 账号）",
-   "sig": "smnjAW8nJVAIaS/zg7k0dsTQZcDKA+Ljcx2Xc5fUbnXdU4AIE51Ts4N8UgLd1m+jtUduMUNve/XhHFHMkBcNeV13dzZEBWHF7W52VzsGjzaop+NXWPDsPzOAkAWDS7vvO26gGAyuDwtDTaiYEeBZvmERfZknr4Jnv9pQ3GKzIEH7ZoZne8RJxlzZNyjwx0YohLUmikNEC6M3471wQ75/P+dOcl69Rl8gEBaBmYQVYLETRx6AgkqqmR+U7toSebwKltFltaKFd59s2OviVFwonKpmV4O20QR5KM44T+/kac/rRV/evUPm+MMyE5TpbS06R0KATDwybRYOfAe+fPmDwg=="
+   "sig": "zWpnVjX2EppM/M2o+Zl1jPjfSTsaJqxjCV7pTuPTGAt4VmGkIhWNWcgxB3ue0+q5+5D5dHXaYKdELWkhbD4XAVmuxr2h2+9fBvbyKOHyltossgpJGwHDRor8YGH3MghYONvkAc4qcZNKEgSr1qP0rLbYrn44zKiQdYj7ZIPeh7B5fNSTs9VPTBVd0TzTOnx+aaxh+LqtL7sfIEwPkZfbqKa89XwLyNdAPmORWxJTelEXj2uFkhYbYbW9wz9cjF2+RvYdggoVM5kSk4JNjyluPDK2siWJ4y7ppWoVyKt70aSRaUuU/JPHpGlvVlg5lfLDhWoTnnOn7Jen5PCIPomVjQ=="
   }
  ]
 }
