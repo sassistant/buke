@@ -1,47 +1,47 @@
 {
  "app": "网课助手",
- "build": "20260930-1851",
- "at": "2026-09-30T19:02:57+08:00",
- "size": 1216630,
- "sha256": "093ee18b99cc7234ec6cc0a1bee32e9a295b0300bbf2ca05f3553cb47c521d20",
+ "build": "20261001-1622",
+ "at": "2026-10-01T16:23:11+08:00",
+ "size": 1261377,
+ "sha256": "9d5742a78c96c0000a77f3ce6a90a3cafb23592dbef2ec56930ee5cbe59bc256",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
- "notes": "本次更新：打包网页版/Mac/便携版支持进软件时提示新版本；本机开发版新增发行方后台（检测发布包/选通道/写更新说明/推送并验收）；网址与授权清单换成中性地址。",
- "sig": "fNfHNClxQv/DU7JsVjNkTYL1gZO2+D/fSVzvmhymVdGo6mumGos/OJlvgc10hLROmdtv+qclQ4+/Wlp4la/bCRXDgdkaVcK7WhBtsP/YX8JElBTDpvwi01wl2NIa4hkrWz9/VXPg3G53FBa2ddczehBbVCQz5V3ZhxTrLW64AN6HYvwHioR8uDi10Se92GBgkLpx8lfh0R/Mpa+eHEijGPbgORzAO8u3IS2WcKOTSfsNfpP6mF9En2AKiTQ187mhbtwZeXs0lEiwwLoefySGuUJcQ8PbcClX2PTROrILucy6Gq25v5RXsten3eC/sYYDwVaM2KXVCwyLmIDq9aie2A==",
+ "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
+ "sig": "EPM+yf9WEzJNOewmP8LBDVW0Tq29mmPth1C7eE8pL3Aj2N1PFKfX11zltA4M8Btu42eyTsrXEJ8qUtTPzF4jNiC+rciqczGX53J3LkyJ/l6DUlzkp8Z+GcFrrerFRvtP9X99ADrcuyX0N4LZE3olu8bAnZG6WYsp5Eqhs1JyW/1Y8AQ6J2FEcIc2m/tS+1sH7p5uOXaP3M/H0VV2bCycf8mr/dDcTpBNGWHST4tOfZ3bHNY3y+hJOh1kwxysCICdUH8codOB6Qw8VxZ8b6uWQrb5AfMeQ8JpClTigFVV37UOhtaACDyQulml28D7t5pkMqu52VZZJk/3VtIId+uGEQ==",
  "channel": "online-preview",
  "channels": [
   {
    "channel": "host-pkg",
-   "build": "20260930-1851",
+   "build": "20261001-1622",
    "url": "./ch/host-pkg/pkg.zip",
-   "sha256": "ba61642d21baeeae3dd8159489a0245c6ad2003dbe15024be94e0ab33a879228",
-   "size": 367406,
-   "notes": "本次更新：打包网页版/Mac/便携版支持进软件时提示新版本；本机开发版新增发行方后台（检测发布包/选通道/写更新说明/推送并验收）；网址与授权清单换成中性地址。",
-   "sig": "HX4/ofHKplNBsQ2MehYp7NRpkSmZDZn7drA4nvVy456t7CSInJ7uEF0ksrJbnqaZ4+psEa3joQN7dy0RJ8mF+ukSOb5/yS6jUcEC48AB8a1bTw0LXgNXmdyvjiEeehqcuHsDwSsWtiwHS4ix7GV1nvsIoQUj3l1GASf3IRc1JXwtVy4eUlp69by8rdOtEC9UUH6rmz1JdYdQq2DfQEjmZlkpkJgqPILpqz4ZbsGBkaDrJZi/qlc21i1mRvsXZMHemhx8tHPFsHIb0yAMBNCdS3YDsA83Xq3TPLQLoZV7YyefqvFnQndgXfwvOqrNV15duM+9k+KguN8+crckl3IaQQ==",
+   "sha256": "afa1a37ce659c993029ae20e15b70e54e221f68c3524fa89649272323361e0e5",
+   "size": 382289,
+   "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
+   "sig": "OwaAzoIEi8RDNOckOqcI7WtyT0lN9SPRLk8L6CAek6EUCDLL75gyHHLcGt1vBA7tkKkiqN8X3qRr27ENVybePuGGNwmbkZ1tEe32YMs8/Gq4lEhOfzqwcVVNhU5i5w1Rg/eWR32LrHorv0Q5OgxM6r96KPBDg9pzHAmB4djJBFgGGoYv6zy4z38tyyHdEDshfKdyxGFFnfNZfiFLqj17oqa0cIavKfxep2A+4kCyE4B44VIuov2xYsVb1yWM5i0zchro9+tQ44Pczdqk5uEwAlBQgn2GnOYr7VNJxqAleCTTGvweyewZHDdQiALI5Uw5NELhEv5ksDql/bmSki/uUg==",
    "files": {
-    "网课助手.html": "f5a39f4b35cd61d513ca2ee5032b01b4b260a99ff975f5318972ffa74e116d9e",
-    "lic-config.js": "b99dc47b0d62aee302c83442458dd2c5886715e5485c1619a5f728c9b5a2bff1",
+    "网课助手.html": "f8150168ec4cc2380e75bb1e42b995867eac630930c13307dd65b2f576711d5e",
+    "lic-config.js": "5da0223e60e9a135310f91be8beebd3ed4bb315b332e76318422462164f0952c",
     "license.js": "6a92373db5b835b5b67ed12ccb7fb2c7d61569ad7751d8c8b1d2604786991767",
     "lic-guard.js": "d2bc3d49c8df39c355d7cb89df21a832381ecc691a8e8001d80909061d8feca4"
    }
   },
   {
    "channel": "single-file",
-   "build": "20260930-1851",
+   "build": "20261001-1622",
    "url": "./ch/single-file/app.html",
-   "sha256": "dfe98031e354ace02f705b18f07e504a63f9da56ad34c5ce8e2ab31614dbe557",
-   "size": 1216627,
-   "notes": "本次更新：打包网页版/Mac/便携版支持进软件时提示新版本；本机开发版新增发行方后台（检测发布包/选通道/写更新说明/推送并验收）；网址与授权清单换成中性地址。",
-   "sig": "X+ZHIGowHi0IZZaBuNF/tfz2y8He/BXgNSTcrc7gjsd7J3RzDLx6sNoQ+/7ZMRlpXeUY8vBSRjv8RjJW0trXR5+2Fi/CV/F9YNtV9mPfT130zURQSmV1lzDgEovHbQa7EyXMHAYrrdIjXG4aIyE0QZPxytQXGCg1BYGmMOh5ObwGpSEpvWH7hDvhHzBpoXI7lklucUX8GYnh1MvfI2Zyqdew1UQ/LVr9IlleoPiI855rZ1Eb5gPl1d8OdYiaEP1/pJZs28+cVE+o2JQ+vzghkNRSOhdP49nW1zHjBo0tGMsDohuM/oyUIa1PBexJ7gmeN5JMo20npZhcfchfu98eEQ=="
+   "sha256": "26e850289e0f908f062db0fe5a1ac712e2a029683638782eafa8397c3ed4c006",
+   "size": 1261374,
+   "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
+   "sig": "Fd6DI0wZ0CDWwP7lBTvpQHxZSbMD+1oY5/FRtoB+PvGCvFfUguc+3ZSVlE5OF06zsezNSSlvuqv3AxJAQJ3Rf4XWtLOeKzPnC6QszYOmuovtnuXRzNlHP2jqdFaDaNc1n3wJAOCBNlfEaC+vmsekc/9wYXQUK+fJE6Hybrr9Npi9h94psUroFJnh6Vc+tut5outx/Bw2oPjgRvuFJ84S3/t6bMfLaxr4i5/XLXqJ0h6MeL76ptgAJQyDWRqAMF5U72ozE3VYsALWZEcxZVIqe5dN1fPDVIeXxBaCekdGV7q+ggYeOkUwwi+/1YtgdyInHHsjvcRCDdi6brlL1Q8xVg=="
   },
   {
    "channel": "online-preview",
-   "build": "20260930-1851",
+   "build": "20261001-1622",
    "url": "./index.html",
-   "sha256": "093ee18b99cc7234ec6cc0a1bee32e9a295b0300bbf2ca05f3553cb47c521d20",
-   "size": 1216630,
-   "notes": "本次更新：打包网页版/Mac/便携版支持进软件时提示新版本；本机开发版新增发行方后台（检测发布包/选通道/写更新说明/推送并验收）；网址与授权清单换成中性地址。",
-   "sig": "fNfHNClxQv/DU7JsVjNkTYL1gZO2+D/fSVzvmhymVdGo6mumGos/OJlvgc10hLROmdtv+qclQ4+/Wlp4la/bCRXDgdkaVcK7WhBtsP/YX8JElBTDpvwi01wl2NIa4hkrWz9/VXPg3G53FBa2ddczehBbVCQz5V3ZhxTrLW64AN6HYvwHioR8uDi10Se92GBgkLpx8lfh0R/Mpa+eHEijGPbgORzAO8u3IS2WcKOTSfsNfpP6mF9En2AKiTQ187mhbtwZeXs0lEiwwLoefySGuUJcQ8PbcClX2PTROrILucy6Gq25v5RXsten3eC/sYYDwVaM2KXVCwyLmIDq9aie2A=="
+   "sha256": "9d5742a78c96c0000a77f3ce6a90a3cafb23592dbef2ec56930ee5cbe59bc256",
+   "size": 1261377,
+   "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
+   "sig": "EPM+yf9WEzJNOewmP8LBDVW0Tq29mmPth1C7eE8pL3Aj2N1PFKfX11zltA4M8Btu42eyTsrXEJ8qUtTPzF4jNiC+rciqczGX53J3LkyJ/l6DUlzkp8Z+GcFrrerFRvtP9X99ADrcuyX0N4LZE3olu8bAnZG6WYsp5Eqhs1JyW/1Y8AQ6J2FEcIc2m/tS+1sH7p5uOXaP3M/H0VV2bCycf8mr/dDcTpBNGWHST4tOfZ3bHNY3y+hJOh1kwxysCICdUH8codOB6Qw8VxZ8b6uWQrb5AfMeQ8JpClTigFVV37UOhtaACDyQulml28D7t5pkMqu52VZZJk/3VtIId+uGEQ=="
   }
  ]
 }
