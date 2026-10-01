@@ -1,13 +1,13 @@
 {
  "app": "网课助手",
  "build": "20261001-1622",
- "at": "2026-10-01T16:23:11+08:00",
+ "at": "2026-10-01T16:26:10+08:00",
  "size": 1261377,
  "sha256": "9d5742a78c96c0000a77f3ce6a90a3cafb23592dbef2ec56930ee5cbe59bc256",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
  "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
- "sig": "EPM+yf9WEzJNOewmP8LBDVW0Tq29mmPth1C7eE8pL3Aj2N1PFKfX11zltA4M8Btu42eyTsrXEJ8qUtTPzF4jNiC+rciqczGX53J3LkyJ/l6DUlzkp8Z+GcFrrerFRvtP9X99ADrcuyX0N4LZE3olu8bAnZG6WYsp5Eqhs1JyW/1Y8AQ6J2FEcIc2m/tS+1sH7p5uOXaP3M/H0VV2bCycf8mr/dDcTpBNGWHST4tOfZ3bHNY3y+hJOh1kwxysCICdUH8codOB6Qw8VxZ8b6uWQrb5AfMeQ8JpClTigFVV37UOhtaACDyQulml28D7t5pkMqu52VZZJk/3VtIId+uGEQ==",
+ "sig": "SamDaddF4UP9/oVGKYM23HBg7tTN4QSA8vYmZ88ZG8IxXDox+8RelT+Ky2boQh6XRAU3VmOIG6zwVkWi7oD8hoy7OJz2nOcHinh6B0GCTuIIAmGaMlNqhrhcNfAqUOzBA9nPlvel1/xiw/wMA3nh3EisXAAMEqy/KbGfffxONvXyoLg/eTdGt9S2fA9LlHEQkblhngJMskXb8LE8b1fY1nk593SjnFdYjaS1nvukUgOGIal7fqOefOmhJvrsqJ79pwULVHEe4Hqce5+AS/N7X1SYyDIWKs+sGEGSGahM4zckQMRtL2FNt2GFrdWoSyjYjgFplzyaZ4SlCp2QWEq23A==",
  "channel": "online-preview",
  "channels": [
   {
@@ -41,7 +41,7 @@
    "sha256": "9d5742a78c96c0000a77f3ce6a90a3cafb23592dbef2ec56930ee5cbe59bc256",
    "size": 1261377,
    "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "EPM+yf9WEzJNOewmP8LBDVW0Tq29mmPth1C7eE8pL3Aj2N1PFKfX11zltA4M8Btu42eyTsrXEJ8qUtTPzF4jNiC+rciqczGX53J3LkyJ/l6DUlzkp8Z+GcFrrerFRvtP9X99ADrcuyX0N4LZE3olu8bAnZG6WYsp5Eqhs1JyW/1Y8AQ6J2FEcIc2m/tS+1sH7p5uOXaP3M/H0VV2bCycf8mr/dDcTpBNGWHST4tOfZ3bHNY3y+hJOh1kwxysCICdUH8codOB6Qw8VxZ8b6uWQrb5AfMeQ8JpClTigFVV37UOhtaACDyQulml28D7t5pkMqu52VZZJk/3VtIId+uGEQ=="
+   "sig": "SamDaddF4UP9/oVGKYM23HBg7tTN4QSA8vYmZ88ZG8IxXDox+8RelT+Ky2boQh6XRAU3VmOIG6zwVkWi7oD8hoy7OJz2nOcHinh6B0GCTuIIAmGaMlNqhrhcNfAqUOzBA9nPlvel1/xiw/wMA3nh3EisXAAMEqy/KbGfffxONvXyoLg/eTdGt9S2fA9LlHEQkblhngJMskXb8LE8b1fY1nk593SjnFdYjaS1nvukUgOGIal7fqOefOmhJvrsqJ79pwULVHEe4Hqce5+AS/N7X1SYyDIWKs+sGEGSGahM4zckQMRtL2FNt2GFrdWoSyjYjgFplzyaZ4SlCp2QWEq23A=="
   }
  ]
 }
