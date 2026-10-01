@@ -2,7 +2,7 @@
  "v": 1,
  "alg": "RSA-PSS-SHA256",
  "pubKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1xMPSDR3/PLBqOn1zwUswUP+rrpEPYi+HuP9xP/G/jrxga+ycFL2OKVlGV+ZKqxQLHPbecSd1phmklZa3nFq8/TFh9k2+aZmCFZEl6u8F7LQbFLKXngC95vhyjoeSbeqr64knvtg0XLqZiOnV8MW6+gp0ui5Gf60o6Oevwz6qkhzJXy1vUctYscdQ2DkhOCQ0Y0PczLvdef/vEpsgysAKk84Nw7Zv9bmS7w0R2sOMwwql5fs1EKS2HhTDZloO3ypPgxY0oCZSrqIubEInI0AfXc/cfghAjekkQ0lw+9S6rnud75dxkIFviw1WQmVu0N4czFMI7qWK6gCKWLN+etcWQIDAQAB",
- "updatedAt": "2026-09-30T08:41:58.489Z",
+ "updatedAt": "2026-10-01T08:27:31.952Z",
  "keys": {
   "BK3Z-7H3C-F6KW": {
    "name": "22",
@@ -13,34 +13,32 @@
    "name": "客户",
    "exp": "2027-09-29",
    "sig": "yGwizbtIkwDwm72qpBWZ4lThtWPXQAKtTHsxBseNYBITSgri3k0qL8q5DNob3PDUPYpRwjAbut0a3P73bhlvmI58roaJeLz0CCo3GCoAd5Ul9zmhqe8eOS5uMjEe3b0Y5T/iOHD5jW/+fwD/s6iuG403ksGCXI80Ff+KQpH7xsyi4Sovss/gBhcKjLt9whw1HFWvUMTdnAIK5WO5M5P6sLQ65EBcQqqyJ7VMc8x3K0fyFvz8RjmMP9ezZwcewwPR2t7o5AT5ePMC3Hquj5IqKzdcOuw5kSbDalZPo6kQU2mjIdtcqT1O0ikK/lI3kTs5rngOeNBYsYiaoBKXkwvwCg=="
-  },
-  "73ET-T427-6AJL": {
-   "name": "汪嘉诚",
-   "exp": "2026-10-01",
-   "sig": "rFBNR5Ym25IE0qpiF/O8Cf45WmqTl7gdcwJTrc6zBla9Rd3/ioa5N2in/P8JmwMnOxWDu7aBVTSN6DJX9e63LUXObEgtVhNicqd6cWXUdoRThNqhIou5hRtNuvt435bjFfQe0FZGJN5f6DgCGaaKxAAdO1voJOflHkdjVBI1lGxO+6wvfZMTPrcuwOpXP1csZ5AMGzPm944Vi124dpGUSoUDtJzgOIftnjuWWPSnYeDM12TjL8W536uevBjPPDlxTd6omuFmbInrWEFXaII6ShxkbFDDot9AQU4IG3aypTBenP3A5GzOvhCmRCv2HyNam89p5QLUsMbdjzYAgqN1EQ=="
   }
  },
  "revoked": {
   "LWCB-YLYN-F95W": {
-   "at": "2026-09-30T08:41:58.488Z"
+   "at": "2026-10-01T08:27:31.951Z"
   },
   "NDWT-DR7D-JQU3": {
-   "at": "2026-09-30T08:41:58.489Z"
+   "at": "2026-10-01T08:27:31.952Z"
   },
   "6N65-UUTG-CU37": {
-   "at": "2026-09-30T08:41:58.489Z"
+   "at": "2026-10-01T08:27:31.952Z"
   },
   "D6P5-76YW-2L99": {
-   "at": "2026-09-30T08:41:58.489Z"
+   "at": "2026-10-01T08:27:31.952Z"
   },
   "MF9F-F6N3-Y2DP": {
-   "at": "2026-09-30T08:41:58.489Z"
+   "at": "2026-10-01T08:27:31.952Z"
   },
   "AF2Y-68Y4-G2JY": {
-   "at": "2026-09-30T08:41:58.489Z",
-   "name": "王邵霆",
+   "at": "2026-10-01T08:27:31.952Z"
+  },
+  "73ET-T427-6AJL": {
+   "at": "2026-10-01T08:27:31.952Z",
+   "name": "汪嘉诚",
    "exp": "2026-10-01",
-   "sig": "jmN+EpenRP94xPxiB/0gwk/PNC3+qxXXXnTjclDFrudRBpYvaCutE45cVIkgaYIcR35RwnN+xZbWNqTo5u4cs6O7AftUAL7/Dnam+rjT4tY0hiRSz27GuH55tlztE4QJ2JrcnFtTSm0Z+tT4woRiD/KsRulBdoAH2qV1Tr/OF9qFh0RkibQI2YFUqvTi2ucJ0izE7+SI/6O+jRMh99Lf4Dz2/CubtUzwQPmk9tJbdVq/C5SGZNH+UVTVLPl/sdx8H0spA/nHUqmOsUblemo9dn9XxehsIMKyr7fNfZIeN7M7Wve9gXBzIiOQM6Stq7nav4/stnsC5MkIR85VyRoxzg=="
+   "sig": "rFBNR5Ym25IE0qpiF/O8Cf45WmqTl7gdcwJTrc6zBla9Rd3/ioa5N2in/P8JmwMnOxWDu7aBVTSN6DJX9e63LUXObEgtVhNicqd6cWXUdoRThNqhIou5hRtNuvt435bjFfQe0FZGJN5f6DgCGaaKxAAdO1voJOflHkdjVBI1lGxO+6wvfZMTPrcuwOpXP1csZ5AMGzPm944Vi124dpGUSoUDtJzgOIftnjuWWPSnYeDM12TjL8W536uevBjPPDlxTd6omuFmbInrWEFXaII6ShxkbFDDot9AQU4IG3aypTBenP3A5GzOvhCmRCv2HyNam89p5QLUsMbdjzYAgqN1EQ=="
   }
  },
  "seal": {
@@ -49,6 +47,6 @@
    "license.js": "6a92373db5b835b5b67ed12ccb7fb2c7d61569ad7751d8c8b1d2604786991767",
    "lic-guard.js": "d2bc3d49c8df39c355d7cb89df21a832381ecc691a8e8001d80909061d8feca4"
   },
-  "sig": "g4M2GJIQ/SXM+LUPtQ0I/2DDgHDTTtYOxPAbobT3DOT+/WN0gST3OC+Igy//34O3ohi2mqBeiZxdMUtdA1rRww3k/DS0uIaaPkQz+gjC+oVZnpqYIhnroIcAt0Y2XWtgrwXEkdztkSMSc0vN2J46GNqkp7GePhPvy3x8eZdPHQIwgRLAKExKX4zXXtEPK0YE2DFD49Uu38bgBxS2V1StvfHppfXdY2O0p2hkWdQk07qYlXS/GzkFivAC4PhvnN18XO8XolZh8mVMV2aHx0fRZtGL+fFdypZ/QhKy/f0pxkJ24JXPY1l5wPYfs2sJwNNNW44gOjmOsfyMwUZulpCoXg=="
+  "sig": "zk//6GgHn838wdqTgroyMsKMqYK09ag9hPFakZo5kn2x4dEmvqzvcXjnA+t992FEVCWKgwOF4DyfmqFu2WFyVIgquLUVoW5t2QX8YC75oH49+B65CWYNZ3grSoKRSqio849bHvNSNYEIEEDCYkJaZ1O5U/JDAML7O4ll3m/Cn+I7Uo0i49iE8UnUjzInclDbxMJJnFULumHvIfdlTktFzb3R2M0uusLbb+75RDBi5x9Hr045SOSWw01qFvtH44x6BOSQoa9GhxNR6hlWABEWw3WDjXKtpmVLWnbzyULITOxyHTMIweLO1Bs4/Nzn0+Fn1ifzr2vTR2tggd1pr9fXvg=="
  }
 }
