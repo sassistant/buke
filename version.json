@@ -1,47 +1,47 @@
 {
  "app": "网课助手",
- "build": "20261001-1622",
- "at": "2026-10-01T16:26:10+08:00",
- "size": 1261377,
- "sha256": "9d5742a78c96c0000a77f3ce6a90a3cafb23592dbef2ec56930ee5cbe59bc256",
+ "build": "20261001-2350",
+ "at": "2026-10-01T23:51:16+08:00",
+ "size": 1317486,
+ "sha256": "b649932738fbf80afa09287f8d48f29ecc2327c5a76646d3823da7a556692163",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
  "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
- "sig": "SamDaddF4UP9/oVGKYM23HBg7tTN4QSA8vYmZ88ZG8IxXDox+8RelT+Ky2boQh6XRAU3VmOIG6zwVkWi7oD8hoy7OJz2nOcHinh6B0GCTuIIAmGaMlNqhrhcNfAqUOzBA9nPlvel1/xiw/wMA3nh3EisXAAMEqy/KbGfffxONvXyoLg/eTdGt9S2fA9LlHEQkblhngJMskXb8LE8b1fY1nk593SjnFdYjaS1nvukUgOGIal7fqOefOmhJvrsqJ79pwULVHEe4Hqce5+AS/N7X1SYyDIWKs+sGEGSGahM4zckQMRtL2FNt2GFrdWoSyjYjgFplzyaZ4SlCp2QWEq23A==",
+ "sig": "NedPQ4ocyiVqPCrvviRF0hNODafaigsOH5yQqyV3OMRUJ2BFLxlz8DLC6iOpv8t3kCF5Z7ugKEqJfCL32D50Z4mWeAZbc5dTkXpHxy3CzzZAH0+usreyEKS7dFnkHt8KJDTg+pMJAk5QL/bYiQYuTEaxqLT9QCGYdw454p2jmOMKlqlr9i4PErLBXOgbx1JaAgWiB+V6M0uVsaj1Y7RwdwOS58Bw637bL+Nc1ZdB9BBzYBJNYMnIdl8UOu3djZQaP9D9i0npYD/STm0o15SYSAM0RqDg8xtjC99mUR7umSySU0F9FFr6npdsrt3xHxx9GBYurgjaH+kSFbC0jjX/Jw==",
  "channel": "online-preview",
  "channels": [
   {
    "channel": "host-pkg",
-   "build": "20261001-1622",
+   "build": "20261001-2350",
    "url": "./ch/host-pkg/pkg.zip",
-   "sha256": "afa1a37ce659c993029ae20e15b70e54e221f68c3524fa89649272323361e0e5",
-   "size": 382289,
+   "sha256": "88282670249da97c3f466b0e9301de0767af7aa485d2e198c93d6108ce998d17",
+   "size": 398013,
    "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "OwaAzoIEi8RDNOckOqcI7WtyT0lN9SPRLk8L6CAek6EUCDLL75gyHHLcGt1vBA7tkKkiqN8X3qRr27ENVybePuGGNwmbkZ1tEe32YMs8/Gq4lEhOfzqwcVVNhU5i5w1Rg/eWR32LrHorv0Q5OgxM6r96KPBDg9pzHAmB4djJBFgGGoYv6zy4z38tyyHdEDshfKdyxGFFnfNZfiFLqj17oqa0cIavKfxep2A+4kCyE4B44VIuov2xYsVb1yWM5i0zchro9+tQ44Pczdqk5uEwAlBQgn2GnOYr7VNJxqAleCTTGvweyewZHDdQiALI5Uw5NELhEv5ksDql/bmSki/uUg==",
+   "sig": "m9MlwpneWpPzMay+OAXEBnxIv+XZYMRcrSxxKIQ1hInVesqsnqcBvtqHbE3cHKYHQkMBSBeYAVULLsa9Z35L9aBtQljdEBbt3t/ssUpRJLpjyYSOPqWzkgSdNrSUZ7POnoBri/QbPbXT7Cv+fp04AC7oPRTwXMtBLyUkIm8xXs6r04clbdsiFYvFilfKyQuibUhND560MBzNxO5G+DGZGKjVOx2G+fL3xnMcT1ctOqEltuURMVA5wuswPC9kIzf0xmDegAYezdvLlYH8OMlk7PeUt0ARt6OWjvZ20SryizZ+da79ibXQF+PYIg8zg1evrPryL6XwErn1QdqEBWV8tA==",
    "files": {
-    "网课助手.html": "f8150168ec4cc2380e75bb1e42b995867eac630930c13307dd65b2f576711d5e",
-    "lic-config.js": "5da0223e60e9a135310f91be8beebd3ed4bb315b332e76318422462164f0952c",
+    "网课助手.html": "68ad4d32303e8757a7c80cbcb2c83ead62918b1b9b29b6cceba5c16523269289",
+    "lic-config.js": "6a0cf81ba249e8d4833767be4cd342a71e3213c2564dba7872d85ea30086d6e8",
     "license.js": "6a92373db5b835b5b67ed12ccb7fb2c7d61569ad7751d8c8b1d2604786991767",
     "lic-guard.js": "d2bc3d49c8df39c355d7cb89df21a832381ecc691a8e8001d80909061d8feca4"
    }
   },
   {
    "channel": "single-file",
-   "build": "20261001-1622",
+   "build": "20261001-2350",
    "url": "./ch/single-file/app.html",
-   "sha256": "26e850289e0f908f062db0fe5a1ac712e2a029683638782eafa8397c3ed4c006",
-   "size": 1261374,
+   "sha256": "2ec4b1fa33b1c9f69a9f2af97f9cf2b6642220e2c96e3115ff53ef2440962a7b",
+   "size": 1317483,
    "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "Fd6DI0wZ0CDWwP7lBTvpQHxZSbMD+1oY5/FRtoB+PvGCvFfUguc+3ZSVlE5OF06zsezNSSlvuqv3AxJAQJ3Rf4XWtLOeKzPnC6QszYOmuovtnuXRzNlHP2jqdFaDaNc1n3wJAOCBNlfEaC+vmsekc/9wYXQUK+fJE6Hybrr9Npi9h94psUroFJnh6Vc+tut5outx/Bw2oPjgRvuFJ84S3/t6bMfLaxr4i5/XLXqJ0h6MeL76ptgAJQyDWRqAMF5U72ozE3VYsALWZEcxZVIqe5dN1fPDVIeXxBaCekdGV7q+ggYeOkUwwi+/1YtgdyInHHsjvcRCDdi6brlL1Q8xVg=="
+   "sig": "Zw7Z86Kh/4DO5qfMjMVwyc2wdleZ9KKharnipKhCRMoLuSlfDnhS04kDLgrllerr9smrphPSFwba3TG+wTiJzM1U4qiGpiQGJcFC1RCEVgD4t6B9yjneizS1ph8Gezs3ihpRO4p8pqkAm3vjQe/UA4MvK8bb8wI6FBh+Q+eFKEIsydwqxo1PlwIEj+XKe/EjZ/qCJ6U/sVFuuRWKqLb7fnR4MZufUIY/3uUzyT6qYvzbmzR2gPrf1MvQW/rlaoLJraigZiOG+JzhiJ2+QZAMel0d8F1+DWeyWC6bWPIj8y4ClnVnZWGCf4osCHt3tmu24wRLvB5+aU2/j5t06daNRg=="
   },
   {
    "channel": "online-preview",
-   "build": "20261001-1622",
+   "build": "20261001-2350",
    "url": "./index.html",
-   "sha256": "9d5742a78c96c0000a77f3ce6a90a3cafb23592dbef2ec56930ee5cbe59bc256",
-   "size": 1261377,
+   "sha256": "b649932738fbf80afa09287f8d48f29ecc2327c5a76646d3823da7a556692163",
+   "size": 1317486,
    "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "SamDaddF4UP9/oVGKYM23HBg7tTN4QSA8vYmZ88ZG8IxXDox+8RelT+Ky2boQh6XRAU3VmOIG6zwVkWi7oD8hoy7OJz2nOcHinh6B0GCTuIIAmGaMlNqhrhcNfAqUOzBA9nPlvel1/xiw/wMA3nh3EisXAAMEqy/KbGfffxONvXyoLg/eTdGt9S2fA9LlHEQkblhngJMskXb8LE8b1fY1nk593SjnFdYjaS1nvukUgOGIal7fqOefOmhJvrsqJ79pwULVHEe4Hqce5+AS/N7X1SYyDIWKs+sGEGSGahM4zckQMRtL2FNt2GFrdWoSyjYjgFplzyaZ4SlCp2QWEq23A=="
+   "sig": "NedPQ4ocyiVqPCrvviRF0hNODafaigsOH5yQqyV3OMRUJ2BFLxlz8DLC6iOpv8t3kCF5Z7ugKEqJfCL32D50Z4mWeAZbc5dTkXpHxy3CzzZAH0+usreyEKS7dFnkHt8KJDTg+pMJAk5QL/bYiQYuTEaxqLT9QCGYdw454p2jmOMKlqlr9i4PErLBXOgbx1JaAgWiB+V6M0uVsaj1Y7RwdwOS58Bw637bL+Nc1ZdB9BBzYBJNYMnIdl8UOu3djZQaP9D9i0npYD/STm0o15SYSAM0RqDg8xtjC99mUR7umSySU0F9FFr6npdsrt3xHxx9GBYurgjaH+kSFbC0jjX/Jw=="
   }
  ]
 }
