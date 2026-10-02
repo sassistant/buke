@@ -1,13 +1,13 @@
 {
  "app": "网课助手",
  "build": "20261002-0031",
- "at": "2026-10-02T12:19:40+08:00",
+ "at": "2026-10-02T12:21:04+08:00",
  "size": 1322205,
  "sha256": "d32112de75cd3a21e6ba11299bff1129383af8f65b8e3f4e72c82ceb1c2d4c73",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
- "notes": "test",
- "sig": "jQYJedYQPE3e3q8stux6OdCEfhtrvmziCD+4TkQuH2Sn8GaEiNvxa+6mjZl4QaZhFjC5IS0FLr/E5NX4lZRY8SnAudNgx5vPyMt1L+1MxFwfFA7C0cwSfFTf7tIeNd2K6hULu4YTNOI7iPUSzgtIslTPX7ewAYPKDvU7SZCqZCOeNzIz6PERD/4P3EkcHuUbI4M7LwMvRgoEuMkzucJiZo2saOLBkppsOdr8vTG8XKoVvxGd1e0tywzpAJ5zltvZTgwiBB1FwyBYQ4aQ9w1gU0YSorQSVOVEvc/7SKzwqyCM5FnCcWjZS6DsyL5ITRBvs9hZDojbIgm318yKbOfhHw==",
+ "notes": "回退",
+ "sig": "KSuv2YC/a5hXqJikqaMdZwL/SGBAFDnZdXj3isqLxI02i5OwYzPZ1xwU+dN66UzBrGrMnUqzWMt3cYX/wiMkqDatY2EIL1mO0K9TghSWtSrZRFQBmmS2RUjk2gebprosRzDMqoGFE76M79jOYVsMCFLhO7A35lBrnLLTujvaSLzXqWQ25w8ffE4cLv3dO9VRkA0xjNaDjEPrd8pJwkyBaBBtz/H/ssH9sC5eb1lC/XTjiy8d2pyPod20BBOAaRfPIP0vZNJqanN5IY8T5MH72wPZTTvONs099X9xDD/xhaSAkzbQe67SaN68gBKHcNh4fzbGSq93MX9Ufn2jPLQ/RA==",
  "channel": "online-preview",
  "channels": [
   {
@@ -40,8 +40,8 @@
    "url": "./index.html",
    "sha256": "d32112de75cd3a21e6ba11299bff1129383af8f65b8e3f4e72c82ceb1c2d4c73",
    "size": 1322205,
-   "notes": "test",
-   "sig": "jQYJedYQPE3e3q8stux6OdCEfhtrvmziCD+4TkQuH2Sn8GaEiNvxa+6mjZl4QaZhFjC5IS0FLr/E5NX4lZRY8SnAudNgx5vPyMt1L+1MxFwfFA7C0cwSfFTf7tIeNd2K6hULu4YTNOI7iPUSzgtIslTPX7ewAYPKDvU7SZCqZCOeNzIz6PERD/4P3EkcHuUbI4M7LwMvRgoEuMkzucJiZo2saOLBkppsOdr8vTG8XKoVvxGd1e0tywzpAJ5zltvZTgwiBB1FwyBYQ4aQ9w1gU0YSorQSVOVEvc/7SKzwqyCM5FnCcWjZS6DsyL5ITRBvs9hZDojbIgm318yKbOfhHw=="
+   "notes": "回退",
+   "sig": "KSuv2YC/a5hXqJikqaMdZwL/SGBAFDnZdXj3isqLxI02i5OwYzPZ1xwU+dN66UzBrGrMnUqzWMt3cYX/wiMkqDatY2EIL1mO0K9TghSWtSrZRFQBmmS2RUjk2gebprosRzDMqoGFE76M79jOYVsMCFLhO7A35lBrnLLTujvaSLzXqWQ25w8ffE4cLv3dO9VRkA0xjNaDjEPrd8pJwkyBaBBtz/H/ssH9sC5eb1lC/XTjiy8d2pyPod20BBOAaRfPIP0vZNJqanN5IY8T5MH72wPZTTvONs099X9xDD/xhaSAkzbQe67SaN68gBKHcNh4fzbGSq93MX9Ufn2jPLQ/RA=="
   }
  ]
 }
