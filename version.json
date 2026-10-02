@@ -1,47 +1,47 @@
 {
  "app": "网课助手",
- "build": "20261001-2350",
- "at": "2026-10-01T23:51:16+08:00",
- "size": 1317486,
- "sha256": "b649932738fbf80afa09287f8d48f29ecc2327c5a76646d3823da7a556692163",
+ "build": "20261002-0031",
+ "at": "2026-10-02T12:16:08+08:00",
+ "size": 1322205,
+ "sha256": "d32112de75cd3a21e6ba11299bff1129383af8f65b8e3f4e72c82ceb1c2d4c73",
  "url": "./index.html",
  "alg": "RSA-PSS-SHA256",
- "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
- "sig": "NedPQ4ocyiVqPCrvviRF0hNODafaigsOH5yQqyV3OMRUJ2BFLxlz8DLC6iOpv8t3kCF5Z7ugKEqJfCL32D50Z4mWeAZbc5dTkXpHxy3CzzZAH0+usreyEKS7dFnkHt8KJDTg+pMJAk5QL/bYiQYuTEaxqLT9QCGYdw454p2jmOMKlqlr9i4PErLBXOgbx1JaAgWiB+V6M0uVsaj1Y7RwdwOS58Bw637bL+Nc1ZdB9BBzYBJNYMnIdl8UOu3djZQaP9D9i0npYD/STm0o15SYSAM0RqDg8xtjC99mUR7umSySU0F9FFr6npdsrt3xHxx9GBYurgjaH+kSFbC0jjX/Jw==",
+ "notes": "test",
+ "sig": "uBAcxIFI+J/7BByICGLxQFrUaS5jDyhhfNu+faHBwBSbXxzDMt/QWkwzzg0Fqy7IaG9xQmFWW5MUqWStzp97yDs3pOSdVGWJYc9J4uf85Uq7jB4Hco+TEqpzRLoAw0boZEhSxLZfpNoQJH3nBPabnUVEmJe9oNlfVBLmxp3+WAs9f1gdPE5YL2jG7f76FXTGc9v6V4+DA/89ByUf8VvjZjxp0uUIv5iA/m5mmuv8Sv9W3qZw+gXmJuv2xvawp6KKUI9GkpXAZY+oTOIXX2iCxW0uXfPjG8FLN/sCB7byjXaRjdlgiOWvcAFrPEfVfvzEPQGviaQ2HdshV651iJVHrg==",
  "channel": "online-preview",
  "channels": [
   {
    "channel": "host-pkg",
-   "build": "20261001-2350",
+   "build": "20261002-0031",
    "url": "./ch/host-pkg/pkg.zip",
-   "sha256": "88282670249da97c3f466b0e9301de0767af7aa485d2e198c93d6108ce998d17",
-   "size": 398013,
-   "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "m9MlwpneWpPzMay+OAXEBnxIv+XZYMRcrSxxKIQ1hInVesqsnqcBvtqHbE3cHKYHQkMBSBeYAVULLsa9Z35L9aBtQljdEBbt3t/ssUpRJLpjyYSOPqWzkgSdNrSUZ7POnoBri/QbPbXT7Cv+fp04AC7oPRTwXMtBLyUkIm8xXs6r04clbdsiFYvFilfKyQuibUhND560MBzNxO5G+DGZGKjVOx2G+fL3xnMcT1ctOqEltuURMVA5wuswPC9kIzf0xmDegAYezdvLlYH8OMlk7PeUt0ARt6OWjvZ20SryizZ+da79ibXQF+PYIg8zg1evrPryL6XwErn1QdqEBWV8tA==",
+   "sha256": "73b1f454c2a1b60b99a76cb100b46a03d96eaf0fbd9543d180627fb52b52cc14",
+   "size": 399709,
+   "notes": "第十一批 v97：手机端底部导航与本地 OCR 收尾\n\n· 375px 窄屏底部导航将“导入与考点”显示为单行“导入”，768px 及以上恢复完整标签；保留完整 title / aria-label。\n· 核实旧版 buke-store/texts 配图缓存兼容回退：当前 texts 记录不会自动迁移到 qfigs，详见实施与验收记录。\n· 完成本机 OCR 启动脚本自检与诊断脚本，启动结果、端口、依赖和日志均可诊断；未发布，待上线自检。",
+   "sig": "KjYFCr1QuE84qAKSbGM7BgwrZWWM2aL6kEkUaVlgQoX6OYYeEK5wJJ9Jp6k/HesOKolmwW3hMcYr2pCmNZvlwAVcncMe9sMqe2aQS79tJ0zLgGIYgGC80E8bzKUn1ic5hTYyQn7AQVlsdzHt6r6GwjvRcJpyS2jUUoqTnVmu2MVG09w9sZ3XH8LIc3P7Se7d6bV5G1uumPFdLEOD9nb7F3lZgGpffgILPYBHDUxZjxxXuFNSltZniRIeRmZmIQ/xwwaIPsTOFI/Fvig4RaQW0ytBpbTBiDMPMAIIdAPkxMUa/v7oAaeZ5WoeAJ8GzoX49IIm7eL+r1gZserTwYdsWA==",
    "files": {
-    "网课助手.html": "68ad4d32303e8757a7c80cbcb2c83ead62918b1b9b29b6cceba5c16523269289",
-    "lic-config.js": "6a0cf81ba249e8d4833767be4cd342a71e3213c2564dba7872d85ea30086d6e8",
+    "网课助手.html": "3ddb288005155a391898ebc8c7039bd4e79c61409c0fdcf0e7367663d780e41f",
+    "lic-config.js": "545a35730115caa35938f6b559e2f169f3f39d5090fe65a380a6e39e0fc327a2",
     "license.js": "6a92373db5b835b5b67ed12ccb7fb2c7d61569ad7751d8c8b1d2604786991767",
     "lic-guard.js": "d2bc3d49c8df39c355d7cb89df21a832381ecc691a8e8001d80909061d8feca4"
    }
   },
   {
    "channel": "single-file",
-   "build": "20261001-2350",
+   "build": "20261002-0031",
    "url": "./ch/single-file/app.html",
-   "sha256": "2ec4b1fa33b1c9f69a9f2af97f9cf2b6642220e2c96e3115ff53ef2440962a7b",
-   "size": 1317483,
-   "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "Zw7Z86Kh/4DO5qfMjMVwyc2wdleZ9KKharnipKhCRMoLuSlfDnhS04kDLgrllerr9smrphPSFwba3TG+wTiJzM1U4qiGpiQGJcFC1RCEVgD4t6B9yjneizS1ph8Gezs3ihpRO4p8pqkAm3vjQe/UA4MvK8bb8wI6FBh+Q+eFKEIsydwqxo1PlwIEj+XKe/EjZ/qCJ6U/sVFuuRWKqLb7fnR4MZufUIY/3uUzyT6qYvzbmzR2gPrf1MvQW/rlaoLJraigZiOG+JzhiJ2+QZAMel0d8F1+DWeyWC6bWPIj8y4ClnVnZWGCf4osCHt3tmu24wRLvB5+aU2/j5t06daNRg=="
+   "sha256": "e6f5fe2b0867783ab51368e56913d039ef69f6b7f7cfc682228a287fbc52508d",
+   "size": 1322202,
+   "notes": "第十一批 v97：手机端底部导航与本地 OCR 收尾\n\n· 375px 窄屏底部导航将“导入与考点”显示为单行“导入”，768px 及以上恢复完整标签；保留完整 title / aria-label。\n· 核实旧版 buke-store/texts 配图缓存兼容回退：当前 texts 记录不会自动迁移到 qfigs，详见实施与验收记录。\n· 完成本机 OCR 启动脚本自检与诊断脚本，启动结果、端口、依赖和日志均可诊断；未发布，待上线自检。",
+   "sig": "y9mk/prFDh+fab9cezVyzs2HrSNeTCcaRY++O1gbHcxbHWwvbribglzWdTxZU7ExV7ZXyg5KhJyvo4O4K7BbxDIC1fRS9/zMTzP9xcqSweUqc0OWaB+NsLFkcEWXkvmO4ASfv2+k80JbYdhjWOXeKuTEKF9XD4YRsj1YqifHOI8roLRkmBET05yEhFHF1mqAemPD8AuEUVEAbdD6jeSEG+cu5yESRgbXgTbkDFfPrBpNLmgcQX9wweefqTI8PkFzCtLRfF7qHTtq2o+FHBkieDAVd/2ictI5zCH+x4WGVtrqUl9GUS8HlIzN9YJqa30iUq46wWYZLH+hnQ+35DobOw=="
   },
   {
    "channel": "online-preview",
-   "build": "20261001-2350",
+   "build": "20261002-0031",
    "url": "./index.html",
-   "sha256": "b649932738fbf80afa09287f8d48f29ecc2327c5a76646d3823da7a556692163",
-   "size": 1317486,
-   "notes": "本次更新：① 题库批量管理——可一次给多道题设置题型、难度、知识点（知识点可选\"追加\"或\"替换\"）；② 待核对的题在卡片上直接显示\"为什么要核对\"（AI 生成 / 两模型不一致 / 配对存疑），点「确认本题后继续」即清掉标记并跳到下一题；③ 组卷可按易中难比例抽题，并给出预估用时；④ 导入时自动跳过重复题（同一批里和已有的都算），需要时可在题库页勾「重复题仍然入库」临时放行；⑤ 审核队列翻页到末尾会自动续下一批。另修：配图超过 20 张不再只显示前 20 张、裁图页码越界不再报错、查重不再漏掉长度差一个字的近似题、导出前检查不再对纯文字题误报\"无配图\"。",
-   "sig": "NedPQ4ocyiVqPCrvviRF0hNODafaigsOH5yQqyV3OMRUJ2BFLxlz8DLC6iOpv8t3kCF5Z7ugKEqJfCL32D50Z4mWeAZbc5dTkXpHxy3CzzZAH0+usreyEKS7dFnkHt8KJDTg+pMJAk5QL/bYiQYuTEaxqLT9QCGYdw454p2jmOMKlqlr9i4PErLBXOgbx1JaAgWiB+V6M0uVsaj1Y7RwdwOS58Bw637bL+Nc1ZdB9BBzYBJNYMnIdl8UOu3djZQaP9D9i0npYD/STm0o15SYSAM0RqDg8xtjC99mUR7umSySU0F9FFr6npdsrt3xHxx9GBYurgjaH+kSFbC0jjX/Jw=="
+   "sha256": "d32112de75cd3a21e6ba11299bff1129383af8f65b8e3f4e72c82ceb1c2d4c73",
+   "size": 1322205,
+   "notes": "test",
+   "sig": "uBAcxIFI+J/7BByICGLxQFrUaS5jDyhhfNu+faHBwBSbXxzDMt/QWkwzzg0Fqy7IaG9xQmFWW5MUqWStzp97yDs3pOSdVGWJYc9J4uf85Uq7jB4Hco+TEqpzRLoAw0boZEhSxLZfpNoQJH3nBPabnUVEmJe9oNlfVBLmxp3+WAs9f1gdPE5YL2jG7f76FXTGc9v6V4+DA/89ByUf8VvjZjxp0uUIv5iA/m5mmuv8Sv9W3qZw+gXmJuv2xvawp6KKUI9GkpXAZY+oTOIXX2iCxW0uXfPjG8FLN/sCB7byjXaRjdlgiOWvcAFrPEfVfvzEPQGviaQ2HdshV651iJVHrg=="
   }
  ]
 }
